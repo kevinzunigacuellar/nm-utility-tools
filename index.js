@@ -1,5 +1,4 @@
 import fs from "node:fs/promises";
-import path from "node:path";
 
 const PAGESIZE = 10;
 const output = [];
